@@ -1,0 +1,12 @@
+function: test1
+Positional Parameters: None
+Keyword Parameters: None
+Return: None
+function: test2
+Positional Parameter: (3, 2)
+Keyword Parameters: None
+Return: True
+function: test3
+Positional Parameters: None
+Keyword Parameters: {'name': 'roy', 'age': 18}
+Return: <function logger_decorator at 0x107929d20>
